@@ -1,9 +1,7 @@
 # Mapping the Structure of the Milky Way
-
+## Taught Master's research project for the University of Kent.
 <img src="Mapping_structure_mw.PNG" width=100%>
 
-A large ground-based telescope in Chile took images of the night sky in the southern hemisphere and stored the data in data-cubes.
+A large ground-based telescope, situated in the Atacama desert in Chile took images of the night sky in the southern hemisphere, collecting data to analyse the structure and composition of our own Milky Way galaxy.
 
-My task was to create a large-scale map of the dust within the spiral arms of the Milky Way galaxy in this region of the night sky. The large complex dataset would then be visually inspected to determine whether a previous theory concerning the number of arms and their positions was correct.
-
-Using aplpy and matplotlib, the cubes were stitched together the large-scale map produced. Upon visual inspection, the theory was validated and a potential addition to an existing spiral arm was discovered.
+Using python, my task was to convert the complex data-set into a visual map of the dust within our galaxy's spiral arms. Comparing the findings to literature, the structure and location of the spiral arms could be analysed to validate previous theories on the topic. My research indicated a potentially undiscovered addition to one of the spiral arms seen in the above image, linking boxes C and E.
